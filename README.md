@@ -158,7 +158,7 @@ My public repositories focus on:
 - Software Architecture
 
 ---
-
+<!-- 
 ## GitHub Statistics
 
 <p align="center">
@@ -175,7 +175,7 @@ My public repositories focus on:
 </p>
 
 ## Contribution Activity
-
+-->
 <!-- BEGIN ACTIVITY-GRAPH -->
 <!-- <picture>
   <source media="(max-width: 767px)" srcset="activity-graph-mobile.svg">
