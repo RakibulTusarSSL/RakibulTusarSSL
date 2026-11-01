@@ -9,6 +9,9 @@
   Software Developer | .NET & Enterprise Application Engineering
 </h3>
 
+<!-- BEGIN ACTIVITY-GRAPH -->
+<!-- END ACTIVITY-GRAPH -->
+
 <p align="center">
   Designing and developing reliable business applications,
   enterprise systems, and scalable software solutions.
