@@ -9,13 +9,6 @@
   Software Developer | .NET & Enterprise Application Engineering
 </h3>
 
-<!-- BEGIN ACTIVITY-GRAPH -->
-<picture>
-  <source media="(max-width: 767px)" srcset="activity-graph-mobile.svg">
-  <img src="activity-graph.svg" alt="Activity Graph" width="100%">
-</picture>
-<!-- END ACTIVITY-GRAPH -->
-
 <p align="center">
   Designing and developing reliable business applications,
   enterprise systems, and scalable software solutions.
@@ -183,12 +176,12 @@ My public repositories focus on:
 
 ## Contribution Activity
 
-<p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=RakibulTusarSSL&theme=github-compact&hide_border=true"
-    alt="GitHub Contribution Activity"
-  />
-</p>
+<!-- BEGIN ACTIVITY-GRAPH -->
+<picture>
+  <source media="(max-width: 767px)" srcset="activity-graph-mobile.svg">
+  <img src="activity-graph.svg" alt="Activity Graph" width="100%">
+</picture>
+<!-- END ACTIVITY-GRAPH -->
 
 <p align="center">
   <img
