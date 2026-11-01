@@ -1,65 +1,201 @@
-# Rakibul Islam Tusar
 
-**Software Developer | .NET & Enterprise Application Engineering**
+<!-- ===================================================== -->
+<!-- Rakibul Islam Tusar | Professional GitHub Profile     -->
+<!-- ===================================================== -->
 
-I develop business-oriented software solutions, enterprise management systems, and scalable web applications using the Microsoft .NET ecosystem.
+<h1 align="center">Rakibul Islam Tusar</h1>
 
----
+<h3 align="center">
+  Software Developer | .NET & Enterprise Application Engineering
+</h3>
 
-### About
-
-- Software Developer with 3+ years of software development experience.
-- Focused on backend engineering and enterprise application development.
-- Experienced in designing business workflows and database-driven applications.
-- Interested in software architecture, performance, maintainability, and reliable system design.
-
-### Engineering Focus
-
-| Area | Expertise |
-|---|---|
-| Backend Development | C#, ASP.NET MVC, ASP.NET Web API, .NET |
-| Application Architecture | REST APIs, Service Layer, Authentication & Authorization |
-| Database Engineering | Microsoft SQL Server, MongoDB, Database Optimization |
-| Frontend Development | Angular, JavaScript, jQuery, HTML, CSS, Bootstrap |
-| Reporting & UI | Crystal Reports, Kendo UI |
-| Development Tools | Git, GitHub, Visual Studio, VS Code |
-
-### Technologies
-
-<p>
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,js,angular,html,css,bootstrap" alt="Development technologies" />
-</p>
-
-<p>
-  <img src="https://skillicons.dev/icons?i=mongodb,git,github,visualstudio,vscode" alt="Development tools" />
-</p>
-
-### Engineering Interests
-
-- Enterprise Resource & Business Management Systems
-- E-Commerce Application Development
-- Inventory, Order & Stock Management
-- API Design and Integration
-- Database Design and Query Optimization
-- Authentication and Authorization Systems
-- Scalable Application Architecture
-
-### GitHub Statistics
-
-<p align="left">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=RakibulTusarSSL&show_icons=true&hide_border=true&theme=default&include_all_commits=true" alt="GitHub statistics" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RakibulTusarSSL&layout=compact&hide_border=true&theme=default" alt="Top programming languages" />
-</p>
-
-### Contribution Activity
-
-<!-- Enable the GitHub Actions Snake workflow to generate this image. -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/RakibulTusarSSL/RakibulTusarSSL/output/github-contribution-grid-snake.svg" alt="GitHub contribution activity" />
+  Designing and developing reliable business applications,
+  enterprise systems, and scalable software solutions.
+</p>
+
+<p align="center">
+  <a href="https://github.com/RakibulTusarSSL">
+    <img src="https://img.shields.io/badge/GitHub-RakibulTusarSSL-181717?style=flat-square&logo=github" />
+  </a>
+  <img src="https://img.shields.io/badge/Focus-Software%20Engineering-blue?style=flat-square" />
+  <img src="https://img.shields.io/badge/Backend-.NET%20Ecosystem-512BD4?style=flat-square&logo=dotnet&logoColor=white" />
 </p>
 
 ---
 
+## About Me
+
+I am a Software Developer with 3+ years of experience in designing,
+developing, and maintaining business-oriented software applications.
+
+My primary focus is backend development, enterprise application
+engineering, database-driven systems, and building practical
+solutions for real-world business requirements.
+
+I enjoy transforming complex business workflows into structured,
+maintainable, and reliable software solutions.
+
+- **Current Role:** Software Developer
+- **Organization:** Symphony Softtech Ltd.
+- **Development Focus:** Backend & Enterprise Application Development
+- **Primary Ecosystem:** Microsoft .NET
+- **Database:** Microsoft SQL Server
+- **Interests:** Software Architecture, API Design & System Engineering
+
+## Technical Expertise
+
+### Programming Languages & Frameworks
+
+<p>
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,js,ts" />
+</p>
+
+### Backend Development
+
+<p>
+  <img src="https://skillicons.dev/icons?i=dotnet,cs" />
+</p>
+
+- ASP.NET MVC
+- ASP.NET Web API
+- .NET 6 / .NET 10
+- RESTful API Development
+- Authentication & Authorization
+- Service-Oriented Application Design
+- Entity Framework & Data Access
+
+### Frontend Development
+
+<p>
+  <img src="https://skillicons.dev/icons?i=angular,html,css,bootstrap,jquery" />
+</p>
+
+- Angular SPA
+- JavaScript & jQuery
+- HTML5 & CSS3
+- Bootstrap
+- Kendo UI
+
+### Database & Reporting
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb" />
+</p>
+
+- Microsoft SQL Server
+- MongoDB
+- Database Design
+- Query Optimization
+- Stored Procedures
+- Crystal Reports
+
+### Development Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,visualstudio,vscode" />
+</p>
+
+- Git & GitHub
+- Visual Studio
+- Visual Studio Code
+- Postman
+- Swagger / OpenAPI
+
+---
+
+## Professional Engineering Experience
+
+### Symphony Softtech Ltd.
+**Software Developer**
+
+Working on enterprise software development, business applications,
+and client-oriented software solutions.
+
+**Engineering Areas:**
+
+- Business workflow analysis and implementation.
+- Backend application development using C# and .NET.
+- RESTful API design and integration.
+- Database-driven application architecture.
+- E-Commerce and business management workflows.
+- Authentication, authorization and access control.
+- Application maintenance, debugging and optimization.
+- Client requirement analysis and technical implementation.
+
+*Company-owned source code and confidential client projects
+are not publicly shared.*
+
+---
+
+## Engineering Interests
+
+I am particularly interested in building software systems
+that solve practical business problems.
+
+- Enterprise Application Architecture
+- E-Commerce & Order Management Systems
+- Inventory & Stock Management
+- RESTful API Engineering
+- Database Architecture & Optimization
+- Secure Authentication Systems
+- Scalable Backend Applications
+- Clean Code & Maintainable Software
+
+---
+
+## Open Source & Independent Projects
+
+I use GitHub to explore technologies, develop independent
+demonstration applications, and share reusable engineering solutions.
+
+My public repositories focus on:
+
+- .NET Application Development
+- Backend Engineering
+- Database Management
+- API Development
+- Software Architecture
+
+---
+
+## GitHub Statistics
+
 <p align="center">
-  <i>Engineering practical solutions. Building software that works.</i>
+  <img
+    height="165"
+    src="https://github-readme-stats.vercel.app/api?username=RakibulTusarSSL&show_icons=true&hide_border=true&theme=default&include_all_commits=true"
+    alt="GitHub Statistics"
+  />
+  <img
+    height="165"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=RakibulTusarSSL&layout=compact&hide_border=true&theme=default"
+    alt="Most Used Languages"
+  />
+</p>
+
+## Contribution Activity
+
+<p align="center">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=RakibulTusarSSL&theme=github-compact&hide_border=true"
+    alt="GitHub Contribution Activity"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://raw.githubusercontent.com/RakibulTusarSSL/RakibulTusarSSL/output/github-contribution-grid-snake.svg"
+    alt="Contribution Snake Animation"
+  />
+</p>
+
+---
+
+<p align="center">
+  <strong>Engineering practical solutions. Building reliable software.</strong>
+</p>
+
+<p align="center">
+  <sub>Thanks for visiting my GitHub profile.</sub>
 </p>
