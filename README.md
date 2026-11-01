@@ -173,8 +173,7 @@ My public repositories focus on:
     alt="Most Used Languages"
   />
 </p>
-<!-- BEGIN ACTIVITY-GRAPH -->
-<!-- END ACTIVITY-GRAPH -->
+
 ## Contribution Activity
 
 <p align="center">
