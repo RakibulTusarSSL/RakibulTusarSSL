@@ -1,201 +1,182 @@
+ <div align="center">
 
-<!-- ===================================================== -->
-<!-- Rakibul Islam Tusar | Professional GitHub Profile     -->
-<!-- ===================================================== -->
+# RAKIBUL ISLAM TUSAR
 
-<h1 align="center">Rakibul Islam Tusar</h1>
+### Software Developer | .NET & Full-Stack Engineer
 
-<h3 align="center">
-  Software Developer | .NET & Enterprise Application Engineering
-</h3>
+**Building Digital Solutions. Engineering Business Applications.**
 
-<p align="center">
-  Designing and developing reliable business applications,
-  enterprise systems, and scalable software solutions.
-</p>
+[![GitHub](https://img.shields.io/badge/GitHub-RakibulTusarSSL-181717?style=for-the-badge&logo=github)](https://github.com/RakibulTusarSSL)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-6C63FF?style=for-the-badge&logo=vercel&logoColor=white)](https://rakibul-islam-tusar.github.io/rakibul-portfolio/)
 
-<p align="center">
-  <a href="https://github.com/RakibulTusarSSL">
-    <img src="https://img.shields.io/badge/GitHub-RakibulTusarSSL-181717?style=flat-square&logo=github" />
-  </a>
-  <img src="https://img.shields.io/badge/Focus-Software%20Engineering-blue?style=flat-square" />
-  <img src="https://img.shields.io/badge/Backend-.NET%20Ecosystem-512BD4?style=flat-square&logo=dotnet&logoColor=white" />
-</p>
+</div>
 
 ---
 
-## About Me
+## 👨‍💻 About Me
 
-I am a Software Developer with 3+ years of experience in designing,
-developing, and maintaining business-oriented software applications.
+I'm **Rakibul Islam Tusar**, a Software Developer from Bangladesh with 3+ years of professional experience in developing business applications, enterprise solutions, and database-driven software systems.
 
-My primary focus is backend development, enterprise application
-engineering, database-driven systems, and building practical
-solutions for real-world business requirements.
+I specialize in transforming complex business requirements into practical, maintainable, and scalable software solutions.
 
-I enjoy transforming complex business workflows into structured,
-maintainable, and reliable software solutions.
+- 💼 Software Developer at **Symphony Softtech Ltd.**
+- 🚀 Experienced in Enterprise Applications, E-Commerce & Business Automation.
+- ⚙️ Backend development with C#, .NET and ASP.NET.
+- 🗄️ Database development with Microsoft SQL Server and MongoDB.
+- 🌱 Continuously exploring modern .NET technologies and software architecture.
 
-- **Current Role:** Software Developer
-- **Organization:** Symphony Softtech Ltd.
-- **Development Focus:** Backend & Enterprise Application Development
-- **Primary Ecosystem:** Microsoft .NET
-- **Database:** Microsoft SQL Server
-- **Interests:** Software Architecture, API Design & System Engineering
+---
 
-## Technical Expertise
-
-### Programming Languages & Frameworks
-
-<p>
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,js,ts" />
-</p>
+## 🛠️ Technology Stack
 
 ### Backend Development
 
-<p>
-  <img src="https://skillicons.dev/icons?i=dotnet,cs" />
-</p>
-
-- ASP.NET MVC
-- ASP.NET Web API
-- .NET 6 / .NET 10
-- RESTful API Development
-- Authentication & Authorization
-- Service-Oriented Application Design
-- Entity Framework & Data Access
+![C#](https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=csharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![ASP.NET MVC](https://img.shields.io/badge/ASP.NET_MVC-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![Web API](https://img.shields.io/badge/REST_API-005571?style=flat-square)
 
 ### Frontend Development
 
-<p>
-  <img src="https://skillicons.dev/icons?i=angular,html,css,bootstrap,jquery" />
-</p>
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
 
-- Angular SPA
-- JavaScript & jQuery
-- HTML5 & CSS3
-- Bootstrap
-- Kendo UI
+### Database & Development Tools
 
-### Database & Reporting
-
-<p>
-  <img src="https://skillicons.dev/icons?i=mongodb" />
-</p>
-
-- Microsoft SQL Server
-- MongoDB
-- Database Design
-- Query Optimization
-- Stored Procedures
-- Crystal Reports
-
-### Development Tools
-
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,visualstudio,vscode" />
-</p>
-
-- Git & GitHub
-- Visual Studio
-- Visual Studio Code
-- Postman
-- Swagger / OpenAPI
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=flat-square&logo=visualstudio&logoColor=white)
 
 ---
 
-## Professional Engineering Experience
+## 💼 Professional Experience
 
-### Symphony Softtech Ltd.
-**Software Developer**
+### Software Developer
+**Symphony Softtech Ltd.** | Development Division
 
-Working on enterprise software development, business applications,
-and client-oriented software solutions.
+Working on enterprise-grade business applications and software solutions.
 
-**Engineering Areas:**
+**Areas of Work:**
 
-- Business workflow analysis and implementation.
-- Backend application development using C# and .NET.
-- RESTful API design and integration.
-- Database-driven application architecture.
-- E-Commerce and business management workflows.
-- Authentication, authorization and access control.
-- Application maintenance, debugging and optimization.
-- Client requirement analysis and technical implementation.
+- Enterprise Document Management Systems.
+- E-Commerce Management Systems.
+- Procurement & Inventory Management.
+- Tailoring Management Systems.
+- REST API Development.
+- Database Design & Optimization.
+- Business Workflow Automation.
 
-*Company-owned source code and confidential client projects
-are not publicly shared.*
+### Software Engineer Intern
+**US Software Limited** | Dhaka, Bangladesh
 
----
-
-## Engineering Interests
-
-I am particularly interested in building software systems
-that solve practical business problems.
-
-- Enterprise Application Architecture
-- E-Commerce & Order Management Systems
-- Inventory & Stock Management
-- RESTful API Engineering
-- Database Architecture & Optimization
-- Secure Authentication Systems
-- Scalable Backend Applications
-- Clean Code & Maintainable Software
+April 2023 – December 2023
 
 ---
 
-## Open Source & Independent Projects
+## 🚀 Professional Project Experience
 
-I use GitHub to explore technologies, develop independent
-demonstration applications, and share reusable engineering solutions.
+*Selected professional work. Projects are maintained in private company repositories and are not publicly available.*
 
-My public repositories focus on:
+### 01. E-Commerce & Business Management System
 
-- .NET Application Development
-- Backend Engineering
-- Database Management
-- API Development
-- Software Architecture
+A comprehensive business management solution covering:
 
----
-<!-- 
-## GitHub Statistics
+- Product & Variant Management.
+- Purchase Requisition → Purchase Order → Purchase Invoice.
+- Supplier Management & Payments.
+- Multi-Warehouse & Multi-Branch Inventory.
+- Sales, Invoicing & Delivery.
+- Customer CRM & Accounts.
+- Return, Refund & Exchange.
+- Accounting & Financial Reporting.
+- Loyalty & Referral Management.
 
-<p align="center">
-  <img
-    height="165"
-    src="https://github-readme-stats.vercel.app/api?username=RakibulTusarSSL&show_icons=true&hide_border=true&theme=default&include_all_commits=true"
-    alt="GitHub Statistics"
-  />
-  <img
-    height="165"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=RakibulTusarSSL&layout=compact&hide_border=true&theme=default"
-    alt="Most Used Languages"
-  />
-</p>
+**Technologies:** C#, .NET, SQL Server, JavaScript, Kendo UI.
 
-## Contribution Activity
--->
-<!-- BEGIN ACTIVITY-GRAPH -->
-<!-- <picture>
-  <source media="(max-width: 767px)" srcset="activity-graph-mobile.svg">
-  <img src="activity-graph.svg" alt="Activity Graph" width="100%">
-</picture>-->
-<!-- END ACTIVITY-GRAPH -->
+### 02. Tailoring Management System
 
-<p align="center">
-  <img
-    src="https://raw.githubusercontent.com/RakibulTusarSSL/RakibulTusarSSL/output/github-contribution-grid-snake.svg"
-    alt="Contribution Snake Animation"
-  />
-</p>
+A business management solution designed for tailoring operations.
+
+- Customer & Order Management.
+- Order Processing & Tracking.
+- Inventory Management.
+- Billing & Invoice Generation.
+- Business Reports.
+- Multi-Branch Customer Management.
+
+**Technologies:** ASP.NET MVC, Web API, C#, SQL Server, Kendo UI.
+
+### 03. Document Management System
+
+Enterprise document management and workflow solution.
+
+- Document Management.
+- Business Workflow Integration.
+- API Development.
+- Database-Driven Operations.
+
+**Technologies:** .NET, C#, SQL Server.
 
 ---
 
-<p align="center">
-  <strong>Engineering practical solutions. Building reliable software.</strong>
-</p>
+## 📊 GitHub Statistics
 
-<p align="center">
-  <sub>Thanks for visiting my GitHub profile.</sub>
-</p>
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=RakibulTusarSSL&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub Statistics" />
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RakibulTusarSSL&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+
+<br/>
+
+<img width="65%" src="https://streak-stats.demolab.com?user=RakibulTusarSSL&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+
+</div>
+
+---
+
+## 🐍 Contribution Activity
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/RakibulTusarSSL/RakibulTusarSSL/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" width="100%" />
+
+</div>
+
+---
+
+## 🎯 Current Focus
+
+- Modern .NET Development.
+- Software Architecture & Design Patterns.
+- Enterprise Application Development.
+- Scalable API Design.
+- Database Performance & Optimization.
+- Continuous Learning & Engineering Growth.
+
+---
+
+## 🤝 Connect With Me
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RakibulTusarSSL)
+[![Portfolio](https://img.shields.io/badge/Portfolio-6C63FF?style=for-the-badge&logo=vercel&logoColor=white)](https://rakibul-islam-tusar.github.io/rakibul-portfolio/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
+
+</div>
+
+---
+
+<div align="center">
+
+### Building. Learning. Improving.
+
+*One commit at a time.*
+
+</div>
