@@ -158,20 +158,22 @@ My public repositories focus on:
 - Software Architecture
 
 ---
-<!-- 
+ 
 ## GitHub Statistics
 
-<!--<p align="center">
+<p align="center">
+<div align="center">
   <img
     height="165"
-    src="https://github-readme-stats.vercel.app/api?username=RakibulTusarSSL&show_icons=true&hide_border=true&theme=default&include_all_commits=true"
+    src="https://github-stats-extended.vercel.app/api?username=RakibulTusarSSL&show_icons=true&hide_border=true&theme=tokyonight&include_all_commits=true"
     alt="GitHub Statistics"
   />
   <img
     height="165"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=RakibulTusarSSL&layout=compact&hide_border=true&theme=default"
+    src="https://github-stats-extended.vercel.app/api/top-langs/?username=RakibulTusarSSL&layout=compact&hide_border=true&theme=tokyonight"
     alt="Most Used Languages"
-  />-->
+  />
+</div>
 
   <img width="65%" src="https://streak-stats.demolab.com?user=RakibulTusarSSL&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
@@ -179,7 +181,6 @@ My public repositories focus on:
 
 
 ## Contribution Activity
--->
 <!-- BEGIN ACTIVITY-GRAPH -->
 <!-- <picture>
   <source media="(max-width: 767px)" srcset="activity-graph-mobile.svg">
