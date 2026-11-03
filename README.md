@@ -162,7 +162,7 @@ My public repositories focus on:
 ## GitHub Statistics
 
 <p align="center">
-<div align="center">
+<!--<div align="center">
   <img
     height="165"
     src="https://github-stats-extended.vercel.app/api?username=RakibulTusarSSL&show_icons=true&hide_border=true&theme=tokyonight&include_all_commits=true"
@@ -173,7 +173,7 @@ My public repositories focus on:
     src="https://github-stats-extended.vercel.app/api/top-langs/?username=RakibulTusarSSL&layout=compact&hide_border=true&theme=tokyonight"
     alt="Most Used Languages"
   />
-</div>
+</div>-->
 
   <img width="65%" src="https://streak-stats.demolab.com?user=RakibulTusarSSL&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
