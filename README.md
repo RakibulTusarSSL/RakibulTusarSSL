@@ -182,10 +182,10 @@ My public repositories focus on:
 
 ## Contribution Activity
 <!-- BEGIN ACTIVITY-GRAPH -->
-<!-- <picture>
+<picture>
   <source media="(max-width: 767px)" srcset="activity-graph-mobile.svg">
   <img src="activity-graph.svg" alt="Activity Graph" width="100%">
-</picture>-->
+</picture>
 <!-- END ACTIVITY-GRAPH -->
 
 <p align="center">
